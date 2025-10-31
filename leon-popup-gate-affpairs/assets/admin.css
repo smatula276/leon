@@ -1,0 +1,27 @@
+#lpgc-aff-pairs-table th,
+#lpgc-aff-pairs-table td {
+    vertical-align: middle;
+}
+
+#lpgc-aff-pairs-table input[type="url"],
+#lpgc-aff-pairs-table select {
+    width: 100%;
+}
+
+.lpgc-role-checkbox {
+    display: inline-flex;
+    align-items: center;
+    margin: 0 16px 8px 0;
+}
+
+.lpgc-role-checkbox input {
+    margin-right: 6px;
+}
+
+#lpgc-add-row {
+    margin-top: 12px;
+}
+
+.lpgc-aff-row .lpgc-remove-row {
+    color: #b32d2e;
+}
